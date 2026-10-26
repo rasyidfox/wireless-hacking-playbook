@@ -143,5 +143,5 @@ MIT License. See `LICENSE` file for details.
 
 ---
 
-**Maintainer:** [Your Name]
+**Maintainer:** rasyidfox edited with MiMo
 **Last Updated:** October 2026
